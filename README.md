@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🔭 I’m currently working on ... Typescript Decorators
+### - 🌱 I’m currently learning ... Typescript, Nodejs, Angular
 
 <!--
 **snakeful/snakeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
