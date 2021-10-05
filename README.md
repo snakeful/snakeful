@@ -2,7 +2,7 @@
 ### 15 years of experience in software/analysis of ERP systems
 ### Have experience developing systems with Delphi XE(Datasnap), AngularJS, Angular, Java EJB (JAX-RS, Glassfish, Payara, Wildfly), NodeJS (expressjs, custom frameworks)
 ### I'm currently the tech lead/software architect in the company I'm working right now
-### 👯 I’m looking to collaborate on projects that require my expercience and can grow with
+### 👯 I’m looking to collaborate on projects that require my experience and can grow with
 ### 🔭 I’m currently working on Typescript Decorators
 ### 🌱 I’m currently learning Typescript, Nodejs, Angular
 
