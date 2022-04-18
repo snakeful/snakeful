@@ -4,7 +4,7 @@
 ### I'm currently the tech lead/software architect in the company I'm working right now
 ### 👯 I’m looking to collaborate on projects that require my experience and can grow with
 ### 🔭 I’m currently working on Typescript Decorators
-### 🌱 I’m currently learning Typescript, Nodejs, Angular
+### 🌱 I’m currently learning Typescript, Nodejs, Angular, Docker, Kubernetes, AWS
 
 <!--
 **snakeful/snakeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
