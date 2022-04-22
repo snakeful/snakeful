@@ -3,8 +3,11 @@
 ### Have experience developing systems with Delphi XE(Datasnap), AngularJS, Angular, Java EJB (JAX-RS, Glassfish, Payara, Wildfly), NodeJS (expressjs, custom frameworks)
 ### I'm currently the tech lead/software architect in the company I'm working right now
 ### 👯 I’m looking to collaborate on projects that require my experience and can grow with
-### 🔭 I’m currently working on Typescript Decorators
-### 🌱 I’m currently learning Typescript, Nodejs, Angular, Docker, Kubernetes, AWS
+### 🔭 I’m currently working on Monorepos and Microservices
+### 🌱 I’m currently learning Typescript, Nodejs, Angular, Docker, Kubernetes, AWS, Monorepo (Nx, Bazel)
+
+![snakeful's github stats](https://github-readme-stats.vercel.app/api?username=snakeful&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snakeful&hide=makefile,perl&theme=dark)
 
 <!--
 **snakeful/snakeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
