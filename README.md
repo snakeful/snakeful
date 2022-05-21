@@ -4,7 +4,7 @@
 ### I'm currently the tech lead/software architect in the company I'm working right now
 ### 👯 I’m looking to collaborate on projects that require my experience and can grow with
 ### 🔭 I’m currently working on Monorepos and Microservices
-### 🌱 I’m currently learning Typescript, Nodejs, Angular, Docker, Kubernetes, AWS, Monorepo (Nx, Bazel)
+### 🌱 I’m currently learning Typescript, Nodejs, Angular, Docker, Kubernetes, AWS, Monorepo (Nx, Bazel), React
 
 ![snakeful's github stats](https://github-readme-stats.vercel.app/api?username=snakeful&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snakeful&hide=makefile,perl&theme=dark)
